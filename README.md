@@ -16,4 +16,4 @@ Page Ruler Redux擴充套件使用教學
 
 ![Step2 圖片](https://i.imgur.com/GMSQQaj.png)
 
-3. 檔案放置好之後，把Chrome擴充套件的功能打開，即可使用此擴充套件
+3. 檔案放置好之後，參考[擔心 Chrome 擴充功能 下架嗎？告訴你下架了也能裝回來喔！](https://walker-a.com/archives/5153)教學，即可使用此擴充套件
