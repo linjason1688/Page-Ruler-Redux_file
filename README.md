@@ -6,3 +6,5 @@
 
 相關教學文章:
 [擔心 Chrome 擴充功能 下架嗎？告訴你下架了也能裝回來喔！](https://walker-a.com/archives/5153)
+
+![Step1 圖片](https://i.imgur.com/fEck5mE.png)
