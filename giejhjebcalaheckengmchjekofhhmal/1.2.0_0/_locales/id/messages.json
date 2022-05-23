@@ -1,0 +1,284 @@
+{
+   "elementToolbarChildNode": {
+      "description": "Title for the child node of the highlighted element in tracking mode",
+      "message": "Simpul turunan"
+   },
+   "elementToolbarHelp": {
+      "description": "Help message for the element toolbar",
+      "message": "Gunakan mode pemilihan otomatis untuk menyorot elemen. Klik untuk memilih dan menonaktifkan mode otomatis."
+   },
+   "elementToolbarHighlightedElement": {
+      "description": "Title for the highlighted element in tracking mode",
+      "message": "Elemen yang disorot"
+   },
+   "elementToolbarNextSibling": {
+      "description": "Title for the next sibling node of the highlighted element in tracking mode",
+      "message": "Simpul berikutnya dalam tingkat yang sama"
+   },
+   "elementToolbarParentNode": {
+      "description": "Title for the parent node of the highlighted element in tracking mode",
+      "message": "Simpul induk"
+   },
+   "elementToolbarPreviousSibling": {
+      "description": "Title for the previous sibling node of the highlighted element in tracking mode",
+      "message": "Simpul sebelumnya dalam tingkat yang sama"
+   },
+   "elementToolbarToggleOff": {
+      "description": "The off state text for the tracking mode toggle button",
+      "message": "Mati"
+   },
+   "elementToolbarToggleOn": {
+      "description": "The on state text for the tracking mode toggle button",
+      "message": "Hidup"
+   },
+   "elementToolbarTrackingMode": {
+      "description": "Label for the tracking mode toggle button",
+      "message": "Mode pemilihan otomatis"
+   },
+   "errorLocal": {
+      "description": "Error message to show when someone tries to run the extension in a chrome extension page",
+      "message": "Ekstensi tidak dapat berjalan di halaman lokal chrome untuk alasan keamanan"
+   },
+   "errorWebStore": {
+      "description": "Error message to show when someone tries to run the extension in a the chrome web store",
+      "message": "Ekstensi tidak dapat berjalan di toko web chrome untuk alasan keamanan"
+   },
+   "extDescription": {
+      "description": "Extension description (maximum 132 characters)",
+      "message": "A Web Developer\\Designer ruler to get pixel dimensions and positioning to measure elements on any web page. 💻"
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "Page Ruler Redux"
+   },
+   "extShortName": {
+      "description": "Extension short name (maximum 12 characters)",
+      "message": "Page Ruler"
+   },
+   "optionsHideUpdateTabHelp": {
+      "description": "Message explaining how the do not show update tab checkbox is used",
+      "message": "Sembunyikan Tab Pembaharuan setiap kali versi terbaru dari ekstensi tersedia"
+   },
+   "optionsHideUpdateTabLabel": {
+      "description": "The label for the do not show update tab checkbox",
+      "message": "Sembunyikan Tab Pembaharuan:"
+   },
+   "optionsPageTitle": {
+      "description": "Page title for the options page",
+      "message": "Pengaturan Page Ruler"
+   },
+   "optionsStatisticsHelp": {
+      "description": "Message explaining how the anonymouse usage statistics is used",
+      "message": "Informasi yang dikumpulkan tidak mengandung informasi pribadi dan hanya digunakan untuk tujuan memperbaiki ekstensi ini dengan melihat bagian mana yang digunakan"
+   },
+   "optionsStatisticsLabel": {
+      "description": "The label for the send anonymouse usage statistics checkbox",
+      "message": "Kirim Statistik Penggunaan:"
+   },
+   "toolbarBottom": {
+      "description": "Label for the bottom input in the toolbar",
+      "message": "Bawah"
+   },
+   "toolbarClose": {
+      "description": "Tooltip for the toolbar close button which closes the addon",
+      "message": "Tutup"
+   },
+   "toolbarColor": {
+      "description": "Label for the color picker in the toolbar",
+      "message": "Warna"
+   },
+   "toolbarDisableElementMode": {
+      "description": "Label for the disable element mode button (element as in HTML element)",
+      "message": "Nonaktifkan mode pemilihan elemen otomatis"
+   },
+   "toolbarDockBottom": {
+      "description": "Tooltip for the dock bottom image",
+      "message": "Pindahkan toolbar ke bawah halaman"
+   },
+   "toolbarDockTop": {
+      "description": "Tooltip for the dock top image",
+      "message": "Pindahkan toolbar ke atas halaman"
+   },
+   "toolbarEnableElementMode": {
+      "description": "Label for the enable element mode button (element as in HTML element)",
+      "message": "Aktifkan mode pemilihan elemen otomatis"
+   },
+   "toolbarGuides": {
+      "description": "Label for the show guides toggle in the toolbar",
+      "message": "Tampilkan garis bantu"
+   },
+   "toolbarHeight": {
+      "description": "Label for the height input in the toolbar",
+      "message": "Tinggi"
+   },
+   "toolbarHelp": {
+      "description": "Lable for the help button in the toolbar",
+      "message": "Tampilkan informasi dan bantuan"
+   },
+   "toolbarLeft": {
+      "description": "Label for the left input in the toolbar",
+      "message": "Kiri"
+   },
+   "toolbarRight": {
+      "description": "Label for the right input in the toolbar",
+      "message": "Kanan"
+   },
+   "toolbarTop": {
+      "description": "Label for the top input in the toolbar",
+      "message": "Atas"
+   },
+   "toolbarWidth": {
+      "description": "Label for the width input in the toolbar",
+      "message": "Lebar"
+   },
+   "updateCodeTitle": {
+      "desciption": "Title for the code section in the contributors side box",
+      "message": "Kode"
+   },
+   "updateContributeTitle": {
+      "desciption": "Title for the contribute side box",
+      "message": "Ayo berkontribusi untuk Page Ruler"
+   },
+   "updateContributorsTitle": {
+      "desciption": "Title for the contributors side box",
+      "message": "Kontributor"
+   },
+   "updateDoNotShowPageAgain": {
+      "description": "Label for the do not show this page again checkbox on the update page",
+      "message": "Jangan tampilkan halaman ini lagi"
+   },
+   "updateHistoryTitle": {
+      "desciption": "Title for the update history section",
+      "message": "Pembaharuan terbaru"
+   },
+   "updateIconsTitle": {
+      "desciption": "Title for the icons section in the contributors side box",
+      "message": "Ikon"
+   },
+   "updateKeyBoardShortcuts": {
+      "description": "The title for the keyboard shortcuts section",
+      "message": "Pintasan Papan Ketik"
+   },
+   "updateKeyBoardShortcutsGeneral": {
+      "description": "Title for general shortcuts section",
+      "message": "Pintasan Umum"
+   },
+   "updateKeyboardShortcutsRuler": {
+      "description": "Title for the ruler arrow keys section",
+      "message": "Penggaris"
+   },
+   "updateKeyboardShortcutsRulerCtrl": {
+      "description": "Arrow keys + Ctrl shortcut description",
+      "message": "\u003Cb>+ Ctrl (Command):\u003C/b> Memperluas penggaris ke arah luar sejauh 1 piksel"
+   },
+   "updateKeyboardShortcutsRulerCtrlAlt": {
+      "description": "Arrow keys _Ctrl + Alt shortcut description",
+      "message": "\u003Cb>+ Ctrl (Command) + Alt:\u003C/b> Menyempitkan penggaris ke arah dalam sejauh 1 piksel"
+   },
+   "updateKeyboardShortcutsRulerKeys": {
+      "description": "Arrow keys shortcut description",
+      "message": "\u003Cb>Tombol panah:\u003C/b> Memindahkan penggaris sejauh 1 piksel"
+   },
+   "updateKeyboardShortcutsRulerShift": {
+      "description": "Arrow keys + Shift shortcut description",
+      "message": "\u003Cb>+ Shift:\u003C/b> Memindahkan penggaris sejauh 10 piksel"
+   },
+   "updateKeyboardShortcutsRulerShiftCtrl": {
+      "description": "Arrow keys + Shift + Ctrl shortcut description",
+      "message": "\u003Cb>+ Shift + Ctrl (Command):\u003C/b> Memperluas penggaris ke arah luar sejauh 10 piksel"
+   },
+   "updateKeyboardShortcutsRulerShiftCtrlAl": {
+      "description": "Arrow keys + Shift + Alt shortcut description",
+      "message": "\u003Cb>+ Shift + Ctrl (Command) + Alt:\u003C/b> Menyempitkan penggaris ke arah dalam sejauh 10 piksel"
+   },
+   "updateKeyboardShortcutsToggle": {
+      "description": "The Alt + P shortcut description",
+      "message": "\u003Cb>Alt + P:\u003C/b> Aktifkan / Nonaktifkan Page Ruler"
+   },
+   "updateKeyboardShortcutsToolbar": {
+      "description": "Title for toolbar inputs shortcut keys section",
+      "message": "Masukan pada toolbar"
+   },
+   "updateKeyboardShortcutsToolbarDown": {
+      "description": "Down key input shortcut description",
+      "message": "\u003Cb>Down Key:\u003C/b> Mengurangi nilai sebanyak 1"
+   },
+   "updateKeyboardShortcutsToolbarDownShift": {
+      "description": "Down key + Shift input shortcut description",
+      "message": "\u003Cb>+ Shift:\u003C/b> Mengurangi nilai sebanyak 10"
+   },
+   "updateKeyboardShortcutsToolbarUp": {
+      "description": "Up key input shortcut description",
+      "message": "\u003Cb>Up Key:\u003C/b> Menambah nilai sebanyak 1"
+   },
+   "updateKeyboardShortcutsToolbarUpShift": {
+      "description": "Up key + Shift input shortcut description",
+      "message": "\u003Cb>+ Shift:\u003C/b> Menambah nilai sebanyak 10"
+   },
+   "updateOtherExtensionsText": {
+      "description": "Other extensions section title",
+      "message": "Ekstensi lain"
+   },
+   "updatePageHeader": {
+      "description": "Header message for the page containing the new version number",
+      "message": "Page Ruler telah diperbaharui ke versi \u003Cspan>$VERSION$\u003C/span>",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": "2.0.1"
+         }
+      }
+   },
+   "updatePageHeaderInstall": {
+      "description": "Header message for the update page when a new user installs it",
+      "message": "Terimakasih telah menginstal Page Ruler!"
+   },
+   "updatePageTitle": {
+      "desciption": "Page title for the update page",
+      "message": "Page Ruler telah diperbaharui"
+   },
+   "updatePageTitleInstall": {
+      "description": "Page title for the install page",
+      "message": "Page Ruler telah diinstal"
+   },
+   "updateReportIssue": {
+      "description": "Report issue button text",
+      "message": "Laporkan masalah atau berikan saran dan masukan"
+   },
+   "updateSupportDonateText": {
+      "description": "Donate button text",
+      "message": "Baca selengkapnya dan berikan bantuan."
+   },
+   "updateSupportReviewText": {
+      "description": "Leave review button text",
+      "message": "Tinggalkan ulasan"
+   },
+   "updateSupportText": {
+      "description": "Support section text",
+      "message": "Page Ruler bersifat dan akan selalu \u003Cb>gratis\u003C/b>. Jika Anda memiliki waktu luang silahkan berikan dukungan dengan memberikan ulasan dan beritahukan kepada orang lain betapa ekstensi ini sangat berguna untuk Anda."
+   },
+   "updateSupportText2": {
+      "description": "Second line of the support section text",
+      "message": "Beberapa orang bertanya tentang bagaimana mereka dapat mengucapkan terimakasih dan mendukung pengembangan Page Ruler. Saya akan lebih suka jika uang Anda digunakan untuk hal yang lebih bernilai, sehingga jika Anda ingin mengucapkan terimakasih, akan lebih baik jika Anda menyumbangkannya untuk kegiatan amal dan hal tersebut akan lebih bermakna bagi saya :)"
+   },
+   "updateSupportTitle": {
+      "description": "Support section title",
+      "message": "Dukung Page Ruler"
+   },
+   "updateTip": {
+      "description": "Message informing users about the shortcut key",
+      "message": "\u003Cb>Info penting:\u003C/b> Gunakan pintasan Alt+P untuk mengaktifkan dan menonaktifkan Page Ruler, atau atur pintasan Anda sendiri di bagian Pintasan Papan Ketik pada tab Ekstensi"
+   },
+   "updateTranslateDescription": {
+      "desciption": "Description of how to find out how to contribute a translation",
+      "message": "Ingin menggunakan Page Ruler dalam versi bahasa Anda? Kunjungi \u003Ca href='https://github.com/wrakky/page-ruler'>halaman proyek di GitHub\u003C/a> dan ikuti petunjuk tentang bagaimana cara mengirimkan terjemahan."
+   },
+   "updateTranslateTitle": {
+      "desciption": "Title for the translate section in the contribute side box",
+      "message": "Terjemahkan"
+   },
+   "updateTranslationsTitle": {
+      "desciption": "Title for the translations section in the contributors side box",
+      "message": "Terjemahan"
+   }
+}

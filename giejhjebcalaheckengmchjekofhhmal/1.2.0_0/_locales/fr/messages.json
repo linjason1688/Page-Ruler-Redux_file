@@ -1,0 +1,172 @@
+{
+   "elementToolbarChildNode": {
+      "description": "Titre du noeud enfant de l'élément en surbrillance en mode exploration",
+      "message": "Noeud enfant"
+   },
+   "elementToolbarHelp": {
+      "description": "Message d'aide de la barre d'outils",
+      "message": "Utilisez le mode exploration pour se déplacer sur la page et les éléments en surbrillance. Cliquez sur un élément pour désactiver le mode exploration."
+   },
+   "elementToolbarHighlightedElement": {
+      "description": "Titre de l'élément en surbrillance en mode exploration",
+      "message": "Elément en surbrillance"
+   },
+   "elementToolbarNextSibling": {
+      "description": "Titre du nœud frère qui suit l'élément en surbrillance dans le mode exploration",
+      "message": "Noeud frère suivant"
+   },
+   "elementToolbarParentNode": {
+      "description": "Titre du noeud parent de l'élément en surbrillance en mode exploration",
+      "message": "Noeud parent"
+   },
+   "elementToolbarPreviousSibling": {
+      "description": "Titre du nœud frère qui précéde l'élément en surbrillance dans le mode exploration",
+      "message": "Noeud frère précédent"
+   },
+   "elementToolbarToggleOff": {
+      "description": "Texte du bouton d'activation du mode exploration en posision off",
+      "message": "Off"
+   },
+   "elementToolbarToggleOn": {
+      "description": "Texte du bouton d'activation du mode exploration en posision on",
+      "message": "On"
+   },
+   "elementToolbarTrackingMode": {
+      "description": "Etiquette du bouton d'activation du mode exploration",
+      "message": "Mode exploration"
+   },
+   "errorLocal": {
+      "description": "Message d'erreur à faire apparaître lorsqu'on essaie d'exécuter l'extension dans une page d'extension chrome",
+      "message": "Les extensions ne peuvent pas s'exécuter dans les pages locales de chrome pour des raisons de sécurité"
+   },
+   "errorWebStore": {
+      "description": "Message d'erreur à faire apparaître lorsqu'on essaie d'exécuter l'extension dans le web store chrome",
+      "message": "Les extensions ne peuvent pas s'exécuter dans le web store chrome pour des raisons de sécurité"
+   },
+   "extDescription": {
+      "description": "Description de l'extension",
+      "message": "A Web Developer\\Designer ruler to get pixel dimensions and positioning to measure elements on any web page. 💻"
+   },
+   "extName": {
+      "description": "Nom de l'extension",
+      "message": "Page Ruler Redux"
+   },
+   "extShortName": {
+      "description": "Nom abrégé de l'extension (12 caractères au maximum)",
+      "message": "Page Ruler"
+   },
+   "optionsHideUpdateTabHelp": {
+      "description": "Message qui indique comment l'onglet d'affichage d'une mise à jour est utilisé",
+      "message": "Ne pas afficher l'onglet mise à jour chaque fois qu'une nouvelle version de l'extension est installée"
+   },
+   "optionsHideUpdateTabLabel": {
+      "description": "L'étiquette de la case à cocher qui concerne l'affichage de l'onglet mise à jour",
+      "message": "Ne pas afficher l'Onglet de Mise à jour:"
+   },
+   "optionsPageTitle": {
+      "description": "Titre de la page des options",
+      "message": "Options de Page Ruler"
+   },
+   "optionsStatisticsHelp": {
+      "description": "Message qui explique comment les statistiques anonymes d'utilisation sont exploitées",
+      "message": "L'information collectée ne contient aucune information privée et n'est utilisée que dans l'objectif d'améliorer cette extension afin d'identifier quelles en sont les parties utilisées"
+   },
+   "optionsStatisticsLabel": {
+      "description": "L'étiquette de la case à cocher pour l'envoie anonyme de statistiques d'utilisation",
+      "message": "Envoyer Anonymement des Statistiques d'utilisation:"
+   },
+   "toolbarBottom": {
+      "description": "Etiquette pour l'affichage de la position en bas dans la barre",
+      "message": "Bas"
+   },
+   "toolbarClose": {
+      "description": "Bouton de fermeture de la barre d'outils pour fermer le module",
+      "message": "Fermer"
+   },
+   "toolbarColor": {
+      "description": "Etiquette  du sélecteur de couleur dans la barre d'outils",
+      "message": "Couleur"
+   },
+   "toolbarDisableElementMode": {
+      "description": "Label du bouton de désactivation du mode Element (elements des tags HTML)",
+      "message": "Désactiver le mode Element"
+   },
+   "toolbarEnableElementMode": {
+      "description": "Label du bouton d'activation du mode Element (elements des tags HTML)",
+      "message": "Activer le mode Element"
+   },
+   "toolbarHeight": {
+      "description": "Etiquette pour l'affichage de la hauteur dans la barre",
+      "message": "Hauteur"
+   },
+   "toolbarLeft": {
+      "description": "Etiquette pour l'affichage de la position à gauche dans la barre",
+      "message": "Gauche"
+   },
+   "toolbarRight": {
+      "description": "Etiquette pour l'affichage de la position à droite dans la barre",
+      "message": "Droite"
+   },
+   "toolbarTop": {
+      "description": "Etiquette pour l'affichage de la position en haut dans la barre",
+      "message": "Haut"
+   },
+   "toolbarWidth": {
+      "description": "Etiquette pour l'affichage de la largeur dans la barre",
+      "message": "Largeur"
+   },
+   "updateCodeTitle": {
+      "desciption": "Titre pour la section code de la boîte latérale des contibuteurs",
+      "message": "Code"
+   },
+   "updateContributeTitle": {
+      "desciption": "Titre de la boîte latérale de contribution",
+      "message": "Contribuez à Page Ruler"
+   },
+   "updateContributorsTitle": {
+      "desciption": "Titre de la boîte latérale à l'attention des contributeurs",
+      "message": "Contributeurs"
+   },
+   "updateDoNotShowPageAgain": {
+      "description": "Etiquette de la case à cliquer pour ne plus afficher cette page dans la page de mise à jour",
+      "message": "Ne plus afficher cette page à nouveau"
+   },
+   "updateHistoryTitle": {
+      "desciption": "Titre de la section de l'historique des mises à jour",
+      "message": "Quoi de Nouveau?"
+   },
+   "updateIconsTitle": {
+      "desciption": "Titre pour la section icons de la boîte latérale des contibuteurs",
+      "message": "Icons"
+   },
+   "updatePageHeader": {
+      "description": "Message d'entête de la page qui contient le numéro de la nouvelle version",
+      "message": "Page Ruler a été mis à jour vers la version \u003Cspan>$VERSION$\u003C/span>",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "exemple": "2.0.1"
+         }
+      }
+   },
+   "updatePageHeaderInstall": {
+      "description": "Message d'entête de la page de mise à jour quand un nouvel utilisateur procède à l'installation ",
+      "message": "Merci d'avoir installé Page Ruler!"
+   },
+   "updatePageTitle": {
+      "desciption": "Titre de la page de mise à jour",
+      "message": "Page Ruler a été mis à jour"
+   },
+   "updateTranslateDescription": {
+      "desciption": "Description de la procédure pour contribuer à une traduction",
+      "message": "Vous souhaitez utiliser Page Ruler dans votre propre langue? Visitez la page \u003Ca href='https://github.com/wrakky/page-ruler'>GitHub project page\u003C/a> et suivez les instructions sur la façon de soumettre une traduction."
+   },
+   "updateTranslateTitle": {
+      "desciption": "Titre de la section de traduction dans la zone latérale de Contribution",
+      "message": "Traduire"
+   },
+   "updateTranslationsTitle": {
+      "desciption": "Titre pour la section traduction de la boîte latérale des contibuteurs",
+      "message": "Traductions"
+   }
+}
