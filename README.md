@@ -18,4 +18,6 @@ Page Ruler Redux擴充套件使用教學
 
 3. 檔案放置好之後，進到Chrome擴充功能頁面，開發人員模式記得要開啟，點選 「載入未封裝項目」 按鈕，選取giejhjebcalaheckengmchjekofhhmal資料夾，點選資料夾，直到看到1.2.0_0資料夾為止。點擊 1.2.0_0資料夾，點擊 選擇資料夾 按鈕，Page Ruler Redux擴充套件即可被載入
 
-
+![Step3-1 圖片](https://i.imgur.com/wzqldt5.png)
+![Step3-2 圖片](https://i.imgur.com/O3CPDrK.png)
+![Step3-3 圖片](https://i.imgur.com/wpear26.png)
